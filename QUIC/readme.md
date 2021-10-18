@@ -1,6 +1,3 @@
----
-tags: Protocol Deep Dive
----
 # QUIC
 
 ## Introduction
